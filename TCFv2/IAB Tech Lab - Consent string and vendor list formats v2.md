@@ -1984,7 +1984,7 @@ Version 1 of the Global Vendor List and all version 1 archives will continue to 
 
 Translations of the names and descriptions for Purposes, Special Purposes, Features, and Special Features to non-English languages are contained in a file where attributes containing English content (except vendor declaration information) are translated, and can be found here:
 
-https://vendor-list.consensu.org/v2/purposes-{language}.json
+https://vendor-list.consensu.org/v3/purposes-{language}.json
 
 Where ‘language’ is a two letter lowercase [ISO 639-1](https://en.wikipedia.org/wiki/ISO_639-1) language code. Supported languages are listed at the following URL:
 
